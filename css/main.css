@@ -1,0 +1,180 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200;300;400;500;600;700&display=swap');
+.logo a{
+	font-size: 36px;
+	text-decoration: none;
+	color: #1f1f1f;
+}
+.anh1{width: 120px}
+
+.nav1 ul{
+	list-style: none
+}
+.nav1 li{
+	margin: 0 32px;
+}
+.nav1 li a{
+	font-size: 22px;
+	text-decoration: none;
+	color:#F695C4;
+}
+.nav1 li a:hover{
+	opacity: 0.8}
+
+
+.nav2 ul{
+	list-style: none
+}
+.nav2 li{
+	margin: 10px 35px;
+}
+.nav2 li a{
+	font-size: 21px;
+	text-decoration: none;
+	color:white}
+.nav2 li a:hover{
+	opacity: 0.8}
+.toolbar{ background: #F695C4}
+.header{height: 120px}
+.banner img{width: 100%;}
+
+
+.service1{
+	padding: 60px;
+}
+.service1 h1{
+	margin-bottom: 15px;
+}
+.feature{
+	overflow: hidden;
+	height: 300px}
+
+.anh3{width: 100%}
+
+h1{font-size:36px;
+line-height: 130%;
+color: #F695C4;
+font-weight: 500} 
+
+h2{font-size:20px;
+line-height: 130%;
+margin-bottom: 15px;
+font-weight: 400}
+
+.sale{ font-size: 24px;
+font-weight: 500;
+color: #F695C4}
+.icon a{
+	margin-left: 8px;
+	color: #F695C4;
+	font-size: 24px}
+
+.xemthem{
+	background:#F695C4 ;
+	color: white;
+	text-decoration: none;
+	padding: 8px 32px;
+	margin:50px
+}
+.xemthem:hover{
+	opacity: .8}
+
+
+.service2 h1{color: #F695C4;
+	margin:40px 0px 15px ;
+}
+.sale2{ font-size: 24px;
+font-weight: 500;
+color:#F695C4}
+.icon2 a{
+	margin-left: 8px;
+	color: #F695C4;
+	font-size: 24px}
+.footer{
+	padding: 100px 0px 0px 0px;
+	color: white}
+.end{color: #F28CBB;
+background: #F9F3D1;
+font-weight:400;
+display: flex;
+font-size:21px;
+justify-content: center;
+align-items: center;
+height: 60px}
+
+
+
+.tieumuc{
+	background:#F695C4;
+	color: white;
+	text-decoration: none;
+	padding: 20px 40px;
+	margin:5px 0px;
+	border-radius:30px;
+	font-size:20px
+  }
+.tieumuc:hover{
+	opacity: .8}
+
+
+.xemthem2{background:#F695C4 ;
+	color: white;
+	text-decoration:none;
+	padding: 8px 32px;
+	margin:50px}
+	
+.xemthem2:hover{
+	opacity: .8}
+
+.feature2{
+	overflow: hidden;
+	height:580px
+}
+.box3{width: 100%}
+
+.anh4{width:100%}
+.icon3 a{
+	margin-left: 12px;
+	color: #F695C4;
+	font-size: 24px}
+
+
+.box5{
+	width:400px;
+	height: 400px;
+	background-color:gray;
+	position: relative;
+    display: flex;
+	margin: 0 75px}
+
+.hinh{
+	width: 400px;
+	height: 400px;
+      z-index: 1}
+
+.service4 img{width:400px;
+   height: 400px}
+
+.chu{color: white;
+	font-size: 21px;
+    font-weight: 400;
+	width: 400px;
+	height: 0;
+	background-color:black;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	opacity: 40%;
+    z-index: 2;
+    overflow-x: hidden;
+	bottom:0;
+	right: 0;
+	transition-duration:0.5s}
+
+.box5:hover .chu {height:100%; color:deeppink}
+
+
+ 
+
